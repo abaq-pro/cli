@@ -1,4 +1,10 @@
-# abaq
+# abaq (discontinued)
+
+> **This CLI is discontinued and the repository is archived (5 November 2026).** No further releases will be published and `abaq update` will not find newer versions. The archives already in [Releases](https://github.com/abaq-pro/cli/releases) remain downloadable but are unsupported. ABAQ's advisor tooling continues in a private, team-only repository.
+
+## Original README
+
+# abaq (original text)
 
 Read-only CLI for the ABAQ accounting platform — advisor tooling that talks to
 the ABAQ GraphQL API and can also serve as a local MCP backend for Claude Desktop.
